@@ -1,0 +1,44 @@
+# 依赖和构建产物
+node_modules/
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# 环境变量（保护 API 密钥）
+.env
+.env.local
+.env.*.local
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS 文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 本地开发
+.vite/
+vite-env.d.ts
+
+# 后端特定
+backend/node_modules/
+backend/uploads/
+backend/logs/
+backend/.env
+
+# Misc
+.cache
+.env.production.local
