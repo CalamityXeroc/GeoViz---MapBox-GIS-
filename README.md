@@ -4,7 +4,7 @@
 
 **🌐 在线演示**: https://www.bst-note.top/maps
 
-![GeoViz Map Editor](https://raw.githubusercontent.com/your-repo/gis-viz-editor/main/public/preview.png)
+![GeoViz Map Editor](https://raw.githubusercontent.com/your-repo/gis-viz-editor/main/public/示例图片.png)
 
 ## ✨ 功能特性
 
