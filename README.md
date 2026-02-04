@@ -4,7 +4,7 @@
 
 **🌐 在线演示**: https://www.bst-note.top/maps
 
-![GeoViz---MapBox-GIS](https://raw.githubusercontent.com/your-repo/GeoViz---MapBox-GIS/main/public/示例图片.png)
+![GeoViz Map Editor](https://raw.githubusercontent.com/CalamityXeroc/GeoViz---MapBox-GIS/main/public/示例图片.png)
 
 ## ✨ 功能特性
 
