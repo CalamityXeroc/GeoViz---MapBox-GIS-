@@ -68,17 +68,6 @@ npm run build
 - 森林覆盖率数据可视化
 - 多底图切换
 
-### 应用界面
-
-<div align="center">
-
-**中国地理数据可视化 - 森林覆盖率展示**
-
-![GeoViz Map Editor - Forest Coverage Rate](https://raw.githubusercontent.com/your-repo/gis-viz-editor/main/screenshots/china-forest-coverage.png)
-
-*支持底图切换、图层显示/隐藏、数据查询、导入导出等功能*
-
-</div>
 
 ## 项目结构
 
